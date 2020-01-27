@@ -10,12 +10,13 @@ GitHub：[https://github.com/dkbnull/AndroidDemo](https://github.com/dkbnull/And
 
 ## Android 专栏
 
-* CSDN：
+* CSDN：[https://blog.csdn.net/dkbnull/category_8700519.html](https://blog.csdn.net/dkbnull/category_8700519.html)
 * 知乎：
-* 微博：
+* 微博：[https://weibo.com/a/hot/7583794263562241_1.html](https://weibo.com/a/hot/7583794263562241_1.html)
 
 ## Android中使用okhttp实现程序自动更新
 
 * CSDN：[https://blog.csdn.net/dkbnull/article/details/104088585](https://blog.csdn.net/dkbnull/article/details/104088585)
 * 微信：[https://mp.weixin.qq.com/s/jkK7rR6rRmbeMekqh3h6WQ](https://mp.weixin.qq.com/s/jkK7rR6rRmbeMekqh3h6WQ)
+* 微博：[https://weibo.com/ttarticle/p/show?id=2309404465065775464739](https://weibo.com/ttarticle/p/show?id=2309404465065775464739)
 
