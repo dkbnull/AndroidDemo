@@ -20,3 +20,9 @@ GitHub：[https://github.com/dkbnull/AndroidDemo](https://github.com/dkbnull/And
 * 微信：[https://mp.weixin.qq.com/s/jkK7rR6rRmbeMekqh3h6WQ](https://mp.weixin.qq.com/s/jkK7rR6rRmbeMekqh3h6WQ)
 * 微博：[https://weibo.com/ttarticle/p/show?id=2309404465065775464739](https://weibo.com/ttarticle/p/show?id=2309404465065775464739)
 
+## Android中动态申请权限
+
+* CSDN：[https://blog.csdn.net/dkbnull/article/details/104092233](https://blog.csdn.net/dkbnull/article/details/104092233)
+* 微信：[https://mp.weixin.qq.com/s/EcNamBOpVV-5mlKhjqk3ww](https://mp.weixin.qq.com/s/EcNamBOpVV-5mlKhjqk3ww)
+* 微博：[https://weibo.com/ttarticle/p/show?id=2309404465336207409222](https://weibo.com/ttarticle/p/show?id=2309404465336207409222)
+
