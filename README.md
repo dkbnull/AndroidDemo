@@ -26,4 +26,5 @@ GitHub：[https://github.com/dkbnull/AndroidDemo](https://github.com/dkbnull/And
 * CSDN：[https://blog.csdn.net/dkbnull/article/details/104092233](https://blog.csdn.net/dkbnull/article/details/104092233)
 * 微信：[https://mp.weixin.qq.com/s/EcNamBOpVV-5mlKhjqk3ww](https://mp.weixin.qq.com/s/EcNamBOpVV-5mlKhjqk3ww)
 * 微博：[https://weibo.com/ttarticle/p/show?id=2309404465336207409222](https://weibo.com/ttarticle/p/show?id=2309404465336207409222)
+* 知乎：[https://zhuanlan.zhihu.com/p/108509508](https://zhuanlan.zhihu.com/p/108509508)
 
