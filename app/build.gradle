@@ -47,3 +47,13 @@ dependencies {
     implementation group: 'com.squareup.okhttp3', name: 'okhttp', version: '4.3.1'
     implementation group: 'com.squareup.retrofit2', name: 'retrofit', version: '2.7.1'
 }
+
+tasks.withType(JavaCompile) {
+    options.encoding = "UTF-8"
+}
+
+android.applicationVariants.all { variant ->
+    variant.outputs.all {
+        outputFileName = "AndroidDemo-${variant.versionName}.${variant.versionCode}_${variant.buildType.name}.apk"
+    }
+}
